@@ -1,2 +1,2 @@
 # git
-update
+update upgrade
